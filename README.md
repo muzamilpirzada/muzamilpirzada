@@ -1,4 +1,4 @@
-[![(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4w7_SPLDyvrdwF-SP7bKjNQY4RU_YD16rA&usqp=CAU)]]
+
 <h1 align="center">Hi 👋, I'm Muzamil Pirzada</h1>
 <h3 align="center">A passionate flutter app developer from Pakistan</h3>
 
@@ -15,6 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/muzamilpirzada](https://github.com/muzamilpirzada)
 
 - 📝 I regularly write articles on [Mobile app](Mobile app)
+- <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 💬 Ask me about **flutter app developing, java developer**
 
@@ -23,7 +25,6 @@
 - ⚡ Fun fact **I think I am little bit funny**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
 <a href="https://twitter.com/muzamilali007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzamilali007" height="30" width="40" /></a>
