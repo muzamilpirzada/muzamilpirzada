@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzamilpirzada" alt="muzamilpirzada" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muzamilali007" target="blank"><img src="https://img.shields.io/twitter/follow/muzamilali007?logo=twitter&style=for-the-badge" alt="muzamilali007" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **E-commerce app**
 
 - 🌱 I’m currently learning **flutter advance app developing**
@@ -15,8 +15,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/muzamilpirzada](https://github.com/muzamilpirzada)
 
 - 📝 I regularly write articles on [Mobile app](Mobile app)
-- <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 - 💬 Ask me about **flutter app developing, java developer**
 
