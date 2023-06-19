@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muzamil Pirzada</h1>
-<h3 align="center">A passionate flutter app developer from Pakistan</h3>
+<h3 align="center">A passionate Mobile app and Webiste developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamilpirzada&label=Profile%20views&color=0e75b6&style=flat" alt="muzamilpirzada" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Mobile app](Mobile app)
 
-- 💬 Ask me about **flutter app developing, java developer**
+- 💬 Ask me about **flutter app developing, java develope, Website Developerr**
 
 - 📫 How to reach me **muzmailali34@gmail.com**
 
