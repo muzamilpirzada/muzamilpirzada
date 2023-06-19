@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **E-commerce app**
 
-- 🌱 I’m currently learning **flutter advance app developing**
+- 🌱 I’m currently learning **Website full stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muzamilpirzada](https://github.com/muzamilpirzada)
 
